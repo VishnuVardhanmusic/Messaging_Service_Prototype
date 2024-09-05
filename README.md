@@ -20,7 +20,7 @@ Note: To view the functionalities, kindly visit <a href="/OUTPUTS/">OUTPUTS</a> 
 3) Include AI functionalities into our web app
 
 # To view the app
-<a href="https://vvcrypto.netlify.app/">VV CHAT APP Click here</a>
+<a href="https://messaging-service-prototype.vercel.app/">VV CHAT APP Click here</a>
 
 # Details of Developer
 1) Name: Y Vishnu Vardhan

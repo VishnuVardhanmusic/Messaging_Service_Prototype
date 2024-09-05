@@ -12,7 +12,8 @@ Note: To view the functionalities, kindly visit <a href="/OUTPUTS/">OUTPUTS</a> 
 # Tech Stack used
 1) Frontend ---> Next.js
 2) Backend ---> Node.js
-3) NoSQL database ---> MongoDB  
+3) NoSQL database ---> MongoDB
+4) Deployment ---> Vercel ( URL: https://messaging-service-prototype.vercel.app/ )
 
 # Future Implementations
 1) Chat share & download functionality

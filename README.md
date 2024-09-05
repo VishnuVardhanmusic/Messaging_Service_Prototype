@@ -20,8 +20,8 @@ Note: To view the functionalities, kindly visit <a href="/OUTPUTS/">OUTPUTS</a> 
 2) Add Video & Audio calling feature
 3) Include AI functionalities into our web app
 
-# To view the app
-<a href="https://messaging-service-prototype.vercel.app/">VV CHAT APP Click here</a>
+# To view the System Design Document (SDD)
+<a href="/System Design Document of VV CHAT Web Application.pdf">VV CHAT System Design Document</a>
 
 # Details of Developer
 1) Name: Y Vishnu Vardhan

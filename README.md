@@ -1,5 +1,6 @@
 # VV CHAT APP - Messaging Service Prototype
- A Next.js Web Application which provides users messaging service. 
+ A Next.js Web Application (Responsive UI in Mobile layouts as well) which provides Users Messaging Service. 
+ 
  User should initially get registered and logging into the application can avail:
  1) Profile Picture upload 
  2) Sending and receiving text messages and photo messages between users.

@@ -88,7 +88,7 @@ const Contacts = () => {
 
       <div className="contact-bar">
         <div className="contact-list">
-          <p className="text-body-bold">TOP 3 Contacts (Search for specific contact)</p>
+          <p className="text-body-bold">Check or Uncheck the below Users</p>
 
           <div className="flex flex-col flex-1 gap-5 overflow-y-scroll custom-scrollbar">
             {contacts.map((user, index) => (

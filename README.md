@@ -1,5 +1,6 @@
 # VV CHAT APP - Messaging Service Prototype
- A Next.js Web Application which provides users messaging service. 
+ A Next.js Web Application (Responsive UI in Mobile layouts as well) which provides Users Messaging Service. 
+ 
  User should initially get registered and logging into the application can avail:
  1) Profile Picture upload 
  2) Sending and receiving text messages and photo messages between users.
@@ -12,15 +13,16 @@ Note: To view the functionalities, kindly visit <a href="/OUTPUTS/">OUTPUTS</a> 
 # Tech Stack used
 1) Frontend ---> Next.js
 2) Backend ---> Node.js
-3) NoSQL database ---> MongoDB  
+3) NoSQL database ---> MongoDB
+4) Deployment ---> Vercel ( URL: https://messaging-service-prototype.vercel.app/ )
 
 # Future Implementations
 1) Chat share & download functionality
 2) Add Video & Audio calling feature
 3) Include AI functionalities into our web app
 
-# To view the app
-<a href="https://messaging-service-prototype.vercel.app/">VV CHAT APP Click here</a>
+# To view the System Design Document (SDD)
+<a href="/System Design Document of VV CHAT Web Application.pdf">VV CHAT System Design Document</a>
 
 # Details of Developer
 1) Name: Y Vishnu Vardhan
